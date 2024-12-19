@@ -1,0 +1,15 @@
+C:\Users\danie\OneDrive\Desktop\StopWatche\stopwatch\bin\Debug\net9.0\stopwatch.exe
+C:\Users\danie\OneDrive\Desktop\StopWatche\stopwatch\bin\Debug\net9.0\stopwatch.deps.json
+C:\Users\danie\OneDrive\Desktop\StopWatche\stopwatch\bin\Debug\net9.0\stopwatch.runtimeconfig.json
+C:\Users\danie\OneDrive\Desktop\StopWatche\stopwatch\bin\Debug\net9.0\stopwatch.dll
+C:\Users\danie\OneDrive\Desktop\StopWatche\stopwatch\bin\Debug\net9.0\stopwatch.pdb
+C:\Users\danie\OneDrive\Desktop\StopWatche\stopwatch\obj\Debug\net9.0\stopwatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Desktop\StopWatche\stopwatch\obj\Debug\net9.0\stopwatch.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Desktop\StopWatche\stopwatch\obj\Debug\net9.0\stopwatch.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Desktop\StopWatche\stopwatch\obj\Debug\net9.0\stopwatch.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Desktop\StopWatche\stopwatch\obj\Debug\net9.0\stopwatch.sourcelink.json
+C:\Users\danie\OneDrive\Desktop\StopWatche\stopwatch\obj\Debug\net9.0\stopwatch.dll
+C:\Users\danie\OneDrive\Desktop\StopWatche\stopwatch\obj\Debug\net9.0\refint\stopwatch.dll
+C:\Users\danie\OneDrive\Desktop\StopWatche\stopwatch\obj\Debug\net9.0\stopwatch.pdb
+C:\Users\danie\OneDrive\Desktop\StopWatche\stopwatch\obj\Debug\net9.0\stopwatch.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Desktop\StopWatche\stopwatch\obj\Debug\net9.0\ref\stopwatch.dll
