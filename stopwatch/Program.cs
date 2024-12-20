@@ -15,7 +15,10 @@ static void Menu () {
     // Command bellow give the last character in list
     // Substring(timerWished.Length - 1, 1);
     char option = Char.Parse(timerWished.Substring(timerWished.Length - 1, 1));
-    Console.WriteLine($"option wished {option}");
+
+    // Command bellow get all character in string except the last
+    // Substring(0, timerWished.Length - 1)
+    int timer = int.Parse(timerWished.Substring(0, timerWished.Length - 1));
 }   
 
 static void Start(int timer)
